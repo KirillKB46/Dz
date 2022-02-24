@@ -1,5 +1,3 @@
-console.log([1, 2, 3, 4, 5, 6, 7, 8].filter(Element => !(Element % 2)).reduce((accumulator, Element) => accumulator + Math.sqrt(Element), 0));
-
 console.log(1.15 + 2.3);
 
 let a = "";
